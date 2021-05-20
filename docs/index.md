@@ -46,7 +46,7 @@
         left: 0px;
         height: 8vh;
         width: 100vw;
-        margin: 0px;
+        margin: 10px;
         background-color: white;
         /* font-weight: 300; */
       }
