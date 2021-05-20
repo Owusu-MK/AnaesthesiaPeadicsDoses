@@ -47,7 +47,7 @@
         height: 8vh;
         width: 100vw;
         margin: 0px;
-        padding-top: 20px;
+        padding-top: 25px;
         background-color: white;
         /* font-weight: 300; */
       }
