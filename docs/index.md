@@ -11,7 +11,7 @@
     />
     <link
       rel="icon"
-      href="https://www.pngrepo.com/png/206531/512/syringe-doctor.png"
+      href="../images/syringe-doctor.png"
     />
 <!--     <title>Anaesthesia&nbsp;-&nbsp; Peadiatric Doses</title> -->
     <style>
