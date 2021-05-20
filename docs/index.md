@@ -13,7 +13,7 @@
       rel="icon"
       href="https://owusu-mk.github.io/AnaesthesiaPeadicsDoses/images/syringe-doctor.png"
     />
-<!--     <title>Anaesthesia&nbsp;-&nbsp; Peadiatric Doses</title> -->
+    <title>Anaesthesia&nbsp;-&nbsp; Peadiatric Doses</title>
     <style>
       body {
         margin: 0px;
@@ -46,7 +46,8 @@
         left: 0px;
         height: 8vh;
         width: 100vw;
-        margin: 10px;
+        margin: 0px;
+        padding-top: 20px;
         background-color: white;
         /* font-weight: 300; */
       }
