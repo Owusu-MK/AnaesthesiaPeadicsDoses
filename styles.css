@@ -11,7 +11,7 @@ p.drug {
 #drugDoses {
   display: grid;
   grid-template-columns: 45% 55%;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+/*   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; */
   margin-top: 10vh;
 }
 p.dose {
